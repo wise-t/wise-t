@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wise-t
 - 👀 I’m interested in data management system
-- 🌱 I’m currently learning django python
-- 💞️ I’m looking to collaborate on any django backend design
+- 🌱 I’m currently JS
+- 💞️ I’m looking to collaborate Frontend for data management system
 - 📫 How to reach me lovjes4@gmail.com
 
 <!---
